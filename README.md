@@ -46,5 +46,5 @@ npm run dev
 - PUT /messages/:id: Update a message by ID (e.g., mark a donation as completed).
 - DELETE /messages/:id: Delete a message by ID.
 
-###License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
